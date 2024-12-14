@@ -2,6 +2,7 @@ Date created/updated: December, 9, 2024.
 [MATHLAB, R, Python: numpy, sklearn.model, pylab, sklearn.decomposition].
 <img width="129" alt="GSU" src="https://github.com/spawar2/HIV_Machine_Learning_Techniques/assets/25118302/7b7ef408-a134-44d7-ba36-bfdac1c98baf">
 <img width="130" alt="BMC" src="https://github.com/spawar2/2018-Poster-Day/assets/25118302/4808830a-092e-4811-9894-01551179655b">
+![download2](https://github.com/user-attachments/assets/bfd20ad7-0ca9-4aa0-8f99-f1676ea9250a)
 
 # HIV_Machine_Learning_Techniques collaboration with Dr. Harrison and Dr. Weber, Georgia State University, Atlanta, United States of America (USA). https://csds.gsu.edu/profile/robert-harrison/ https://cas.gsu.edu/profile/irene-weber/
 BioMed Central BMC Bioinformatics. [Paper Link:](https://www.ncbi.nlm.nih.gov/pubmed/30343664)
